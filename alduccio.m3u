@@ -1,0 +1,116 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/it.xml"
+
+############################
+# PRINCIPALI
+############################
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rai_1_logo.svg/512px-Rai_1_logo.svg.png" group-title="RAI",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=rai1&output=16
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="RAI",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=rai2&output=16
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="RAI",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=rai3&output=16
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Rete_4_logo_2018.svg" group-title="MEDIASET",Rete 4
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canale_5_logo_2018.svg" group-title="MEDIASET",Canale 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Italia_1_logo_2018.svg" group-title="MEDIASET",Italia 1
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH02)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/LA7_logo_2011.svg" group-title="LA7",La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/index.m3u8
+
+#EXTINF:-1 tvg-id="La7d.it" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LA7d_logo.svg" group-title="LA7",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/index.m3u8
+
+
+############################
+# NEWS
+############################
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Rai_News_24_logo.svg" group-title="NEWS",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+
+#EXTINF:-1 tvg-id="TGCOM24.it" tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/TGCOM24_logo.svg" group-title="NEWS",TGCOM24
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH10)/Stream(03)/index.m3u8
+
+
+############################
+# TEMATICI RAI
+############################
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Rai_Sport_-_Logo_2016.svg" group-title="SPORT",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Rai_Storia_logo.svg" group-title="RAI",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Rai_Scuola_logo.svg" group-title="RAI",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Rai_Movie_logo.svg" group-title="FILM",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Rai_Premium_logo.svg" group-title="FILM",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+
+
+############################
+# BAMBINI
+############################
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rai_Gulp_logo.svg" group-title="BAMBINI",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=7469536&output=16
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rai_Yoyo_logo.svg" group-title="BAMBINI",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
+
+
+############################
+# MEDIASET TEMATICI
+############################
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Iris_logo.svg" group-title="FILM",Iris
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH06)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="La5.it" tvg-chno="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/La5_logo.svg" group-title="MEDIASET",La5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH04)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Italia2_logo.svg" group-title="MEDIASET",Italia 2
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH05)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Mediaset_Extra_logo.svg" group-title="MEDIASET",Mediaset Extra
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Top_Crime_logo.svg" group-title="MEDIASET",Top Crime
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH07)/Stream(03)/index.m3u8
+
+
+############################
+# RAI REGIONALI
+############################
+
+#EXTINF:-1 tvg-id="Rai3Campania.it" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_-_Logo_2016.svg" group-title="TGR",TGR Campania
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
+
+
+############################
+# CAMPANIA LOCALI
+############################
+
+#EXTINF:-1 tvg-id="Canale21.it" tvg-chno="610" tvg-logo="https://www.canale21.it/logo.png" group-title="CAMPANIA",Canale 21
+https://stream.canale21.it/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecapri.it" tvg-chno="611" tvg-logo="https://www.telecapri.it/logo.png" group-title="CAMPANIA",Telecapri
+https://stream.telecapri.it/live/index.m3u8
+
+#EXTINF:-1 tvg-id="TVLuna.it" tvg-chno="612" tvg-logo="https://www.tvluna.it/logo.png" group-title="CAMPANIA",TV Luna
+https://streaming.tvluna.it/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleischia.it" tvg-chno="613" tvg-logo="https://www.teleischia.com/logo.png" group-title="CAMPANIA",Teleischia
+https://rst.saiuzwebnetwork.it:19360/tvischia89/tvischia89.m3u8
