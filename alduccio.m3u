@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/it.xml"
 
 ############################
-# PRINCIPALI (LCN DTT)
+# CANALI PRINCIPALI
 ############################
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Rai_1_logo.svg" group-title="RAI",Rai 1
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rai1&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rai_2_-_Logo_2016.svg" group-title="RAI",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rai_2_logo.svg" group-title="RAI",Rai 2
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rai2&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_-_Logo_2016.svg" group-title="RAI",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_logo.svg" group-title="RAI",Rai 3
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rai3&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/LA7_logo_2011.svg" group-title="LA7",La7
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/LA7_logo.svg" group-title="LA7",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/index.m3u8
 
 #EXTINF:-1 tvg-id="La7d.it" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LA7d_logo.svg" group-title="LA7",La7d
@@ -27,15 +27,12 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Rai_News_24_logo.svg" group-title="NEWS",Rai News 24
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rainews&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="TGCOM24.it" tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/TGCOM24_logo.svg" group-title="NEWS",TGCOM24
-http://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-
 
 ############################
 # RAI TEMATICI
 ############################
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Rai_Sport_-_Logo_2016.svg" group-title="SPORT",Rai Sport
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Rai_Sport_logo.svg" group-title="SPORT",Rai Sport
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=raisport&output=playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Rai_Movie_logo.svg" group-title="FILM",Rai Movie
@@ -66,15 +63,15 @@ https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=raiyoyo&output=pl
 # RAI REGIONALI
 ############################
 
-#EXTINF:-1 tvg-id="Rai3Campania.it" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_-_Logo_2016.svg" group-title="TGR",TGR Campania
+#EXTINF:-1 tvg-id="Rai3Campania.it" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_logo.svg" group-title="TGR",TGR Campania
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tgrcampania&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai3Lazio.it" tvg-chno="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_-_Logo_2016.svg" group-title="TGR",TGR Lazio
+#EXTINF:-1 tvg-id="Rai3Lazio.it" tvg-chno="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rai_3_logo.svg" group-title="TGR",TGR Lazio
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=tgrlazio&output=playlist.m3u8
 
 
 ############################
-# CAMPANIA LOCALI
+# CAMPANIA
 ############################
 
 #EXTINF:-1 tvg-id="Canale21.it" tvg-chno="610" tvg-logo="https://www.canale21.it/logo.png" group-title="CAMPANIA",Canale 21
@@ -85,6 +82,3 @@ https://stream.telecapri.it/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLuna.it" tvg-chno="612" tvg-logo="https://www.tvluna.it/logo.png" group-title="CAMPANIA",TV Luna
 https://streaming.tvluna.it/live/index.m3u8
-
-#EXTINF:-1 tvg-id="Teleischia.it" tvg-chno="613" tvg-logo="https://www.teleischia.com/logo.png" group-title="CAMPANIA",Teleischia
-https://rst.saiuzwebnetwork.it:19360/tvischia89/tvischia89.m3u8
